@@ -3,6 +3,9 @@ import numpy as np
 import pandas as pd
 import pprint
 
+# Youtube Video Link
+# https://youtu.be/CWzpomtLqqs?si=F6dZASg-6jeLYTQb
+
 # Step 1: Create dataset manually
 data = {
     "Outlook": [
