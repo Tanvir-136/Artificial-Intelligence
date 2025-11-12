@@ -1,0 +1,103 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+*.whl
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit tests / coverage / profiling
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.prof
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-*
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Local settings
+local_settings.py
+settings_local.py
+
+# C extensions
+*.so
+
+# Common database / runtime files
+*.sqlite3
+
+# Machine learning artifacts (models, weights, checkpoints, large datasets)
+models/
+checkpoints/
+saved_models/
+weights/
+runs/
+experiments/
+outputs/
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Common ML file formats (binary/large)
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.onnx
+*.bin
+*.npy
+*.npz
+*.csv
+*.tsv
+
+# Misc
+*.manifest
+*.spec
+celerybeat-schedule
+.mypy_cache/
