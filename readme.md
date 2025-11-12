@@ -16,23 +16,9 @@ Covered chapters:
 
 ### Prerequisites
 - Python 3.8 or higher
-- Required packages (see `requirements.txt`)
-
-### Installation
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 Refer to individual chapter directories for specific problem implementations and usage instructions.
-
-## Projects by Chapter
-- Chapter 3 - Problem-solving agents and search algorithms
-- Chapter 4 - Informed search and exploration
-- Chapter 7 - Logical reasoning and inference
-- Chapter 13 - Probabilistic reasoning
-- Chapter 18 - Machine learning algorithms
-- Chapter 22 - Natural language processing techniques
 
 ## Contributing
 We welcome contributions! Here's how you can help:
